@@ -1,0 +1,48 @@
+20 Stack Practice Programs in C
+Basic Stack Operations
+
+Write a program to implement stack using an array with operations: push, pop, display.
+
+Write a program to implement stack using linked list.
+
+Write a program to check stack overflow and underflow conditions.
+
+Write a program to find the top element of a stack without popping it.
+
+Write a program to count the number of elements in a stack.
+
+Applications of Stack
+
+Write a program to reverse a string using a stack.
+
+Write a program to check if a string of parentheses is balanced using a stack.
+
+Write a program to evaluate a postfix expression using a stack.
+
+Write a program to convert an infix expression to postfix using a stack.
+
+Write a program to convert an infix expression to prefix using a stack.
+
+Numerical Stack Problems
+
+Write a program to find the span of stock prices using a stack.
+
+Write a program to find the next greater element for each element in an array using a stack.
+
+Write a program to sort a stack using another stack.
+
+Write a program to reverse a stack using recursion.
+
+Write a program to implement two stacks in a single array.
+
+Advanced Stack Problems
+
+Write a program to implement a stack using two queues.
+
+Write a program to implement a queue using two stacks.
+
+Write a program to check whether a given expression has duplicate parentheses using a stack.
+
+Write a program to implement Min Stack (get minimum element in O(1) time).
+
+Write a program to implement a stack that also supports finding the middle element in O(1).

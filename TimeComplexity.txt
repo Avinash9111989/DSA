@@ -1,0 +1,142 @@
+What is Time Complexity?
+
+Time Complexity = How the running time of an algorithm grows with respect to the input size n.
+
+It doesn’t measure exact seconds, but the number of steps or operations.
+
+Expressed using Big-O Notation: O(f(n))
+
+🔹 Common Time Complexities
+1. Constant Time → O(1)
+
+Running time does not depend on input size.
+
+Example:
+
+int x = 10;      // O(1)
+printf("%d", x); // O(1)
+
+
+✅ Always executes in the same time.
+
+2. Logarithmic Time → O(log n)
+
+Each step reduces the problem size by half.
+
+Example: Binary Search
+
+int binarySearch(int arr[], int n, int key) {
+    int low = 0, high = n - 1;
+    while(low <= high) {
+        int mid = (low + high) / 2;
+        if(arr[mid] == key) return mid;   // O(1)
+        else if(arr[mid] < key) low = mid + 1;
+        else high = mid - 1;
+    }
+    return -1;
+}
+
+
+✅ Time Complexity: O(log n)
+
+3. Linear Time → O(n)
+
+Execution grows proportional to input size.
+
+Example: Traverse array with pointer
+
+void printArray(int *arr, int n) {
+    for(int i=0; i<n; i++) {
+        printf("%d ", *(arr+i));  // runs n times
+    }
+}
+
+
+✅ Time Complexity: O(n)
+
+4. Linearithmic Time → O(n log n)
+
+Common in sorting algorithms like Merge Sort, Quick Sort.
+
+Example: Merge Sort splits array (log n times) and processes each element (n).
+
+✅ Time Complexity: O(n log n)
+
+5. Quadratic Time → O(n²)
+
+Nested loops → runs n * n times.
+
+Example: Bubble Sort
+
+void bubbleSort(int *arr, int n) {
+    for(int i=0; i<n; i++) {        // O(n)
+        for(int j=0; j<n-i-1; j++) { // O(n)
+            if(arr[j] > arr[j+1]) {
+                int temp = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = temp;
+            }
+        }
+    }
+}
+
+
+✅ Time Complexity: O(n²)
+
+6. Cubic Time → O(n³)
+
+Triple nested loops.
+
+Example: Matrix Multiplication (n x n matrices).
+
+7. Exponential Time → O(2^n)
+
+Doubles with each additional input.
+
+Example: Recursive Fibonacci
+
+int fib(int n) {
+    if(n <= 1) return n;
+    return fib(n-1) + fib(n-2);
+}
+
+
+✅ Time Complexity: O(2^n)
+
+8. Factorial Time → O(n!)
+
+Extremely slow.
+
+Example: Solving Traveling Salesman Problem using brute force.
+
+🔹 Big-O Notation Summary Table
+Complexity	Example	Performance
+O(1)	Access array element by index	Best
+O(log n)	Binary search	Very good
+O(n)	Linear search, traversal	Good
+O(n log n)	Merge sort, quicksort (avg)	Efficient
+O(n²)	Bubble sort, insertion sort	Slow
+O(n³)	Matrix multiplication	Slower
+O(2^n)	Recursive Fibonacci	Very slow
+O(n!)	Traveling Salesman brute force	Worst
+🔹 Pointer Program Examples with Time Complexity
+
+Print array using pointer → O(n)
+
+Reverse array using pointer → O(n)
+
+Swap two numbers using pointer → O(1)
+
+String length using pointer → O(n)
+
+Concatenate two strings using pointer → O(m+n) (m = length of str1, n = length of str2)
+
+Sort array using pointers (Bubble Sort) → O(n²)
+
+Dynamic memory allocation & filling → O(n)
+
+Function pointer calls → O(1)
+
+Pointer to structure (access fields) → O(1)
+
+Stack using pointers → Push/Pop O(1), Traverse O(n)

@@ -1,0 +1,45 @@
+Beginner Pointer Programs
+
+Write a C program to print the value and address of a variable using a pointer.
+
+Write a program to swap two numbers using pointers.
+
+Write a program to perform pointer arithmetic (increment, decrement, addition, subtraction).
+
+Write a program to print an array using pointers.
+
+Write a program to find the maximum and minimum element in an array using pointers.
+
+🔹 Intermediate Pointer Programs
+
+Write a program to reverse an array using pointers.
+
+Write a program to count the length of a string using pointers.
+
+Write a program to copy one string to another using pointers.
+
+Write a program to concatenate two strings using pointers.
+
+Write a program to compare two strings using pointers (similar to strcmp).
+
+Write a program to count vowels and consonants in a string using pointers.
+
+Write a program to dynamically allocate memory for an array and input values using pointers.
+
+Write a program to find the sum and average of n numbers using dynamic memory allocation with pointers.
+
+Write a program to delete duplicate elements from an array using pointers.
+
+🔹 Advanced Pointer Programs
+
+Write a program to demonstrate pointer to pointer (double pointer).
+
+Write a program to demonstrate an array of pointers.
+
+Write a program to store and display student information using pointer to structure.
+
+Write a program to sort n numbers using pointers (bubble sort or selection sort).
+
+Write a program to demonstrate function pointers by calling different functions through them.
+
+Write a program to implement a simple stack using pointers and dynamic memory allocation.

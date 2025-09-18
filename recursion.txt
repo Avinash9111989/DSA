@@ -1,0 +1,47 @@
+🔹 Beginner Recursion Programs
+
+Write a program to find the factorial of a number using recursion.
+
+Write a program to find the nth Fibonacci number using recursion.
+
+Write a program to calculate the sum of first n natural numbers using recursion.
+
+Write a program to find the GCD (Greatest Common Divisor) of two numbers using recursion.
+
+Write a program to find the power of a number (a^b) using recursion.
+
+🔹 Array and String Recursion
+
+Write a program to find the maximum element in an array using recursion.
+
+Write a program to find the sum of elements in an array using recursion.
+
+Write a program to count the length of a string using recursion.
+
+Write a program to reverse a string using recursion.
+
+Write a program to check if a string is a palindrome using recursion.
+
+🔹 Mathematical Recursion
+
+Write a program to find the sum of digits of a number using recursion.
+
+Write a program to reverse a number using recursion.
+
+Write a program to count the number of digits in a number using recursion.
+
+Write a program to generate Pascal’s Triangle using recursion.
+
+Write a program to find the LCM (Least Common Multiple) of two numbers using recursion.
+
+🔹 Pattern and Advanced Recursion
+
+Write a program to print numbers from 1 to n using recursion.
+
+Write a program to print numbers from n to 1 using recursion.
+
+Write a program to print the binary representation of a number using recursion.
+
+Write a program to solve the Tower of Hanoi problem using recursion.
+
+Write a program to generate all permutations of a string using recursion.
