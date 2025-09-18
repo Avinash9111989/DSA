@@ -1,0 +1,48 @@
+🔹 20 Queue Practice Programs in C
+Basic Queue Operations
+
+Write a program to implement a queue using an array with operations: enqueue, dequeue, display.
+
+Write a program to implement a queue using linked list.
+
+Write a program to implement a circular queue using an array.
+
+Write a program to implement a circular queue using linked list.
+
+Write a program to count the number of elements in a queue.
+
+Applications of Queue
+
+Write a program to reverse a queue using a stack.
+
+Write a program to reverse a queue using recursion.
+
+Write a program to implement two queues in a single array.
+
+Write a program to implement a priority queue using an array.
+
+Write a program to implement a priority queue using a linked list.
+
+Special Queue Variants
+
+Write a program to implement a deque (double-ended queue) using an array.
+
+Write a program to implement a deque using a linked list.
+
+Write a program to implement an input-restricted deque.
+
+Write a program to implement an output-restricted deque.
+
+Write a program to implement a queue using two stacks.
+
+Advanced Queue Problems
+
+Write a program to implement a stack using two queues.
+
+Write a program to simulate the producer-consumer problem using a queue.
+
+Write a program to check if a queue is a palindrome.
+
+Write a program to interleave the first and second half of a queue.
+
+Write a program to generate binary numbers from 1 to n using a queue.
