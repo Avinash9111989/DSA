@@ -1,0 +1,89 @@
+🔍 20 Searching Program Questions
+🔹 Basic Searching
+
+Implement Linear Search to find an element in an unsorted array.
+
+Implement Binary Search to find an element in a sorted array.
+
+Find the first and last occurrence of a given element in a sorted array (Binary Search variant).
+
+Count the number of occurrences of a given element in a sorted array.
+
+Find the index of the smallest element in a rotated sorted array.
+
+Search an element in a rotated sorted array (Modified Binary Search).
+
+Implement Jump Search for searching in a sorted array.
+
+Implement Interpolation Search for uniformly distributed sorted data.
+
+Implement Exponential Search to search in an unbounded sorted array.
+
+Implement Ternary Search to find an element in a sorted array.
+
+🔹 Intermediate Searching
+
+Find the peak element in an array (element greater than or equal to neighbors).
+
+Find the square root of a number using Binary Search (without using sqrt() function).
+
+Find the position of an element in an infinite sorted array (simulate using large bounds).
+
+Find the single non-repeating element in a sorted array where every element occurs twice except one.
+
+Find the missing number in an array containing numbers 1 to N using Binary Search.
+
+Find the first bad version using Binary Search (like in LeetCode).
+
+Find the closest element to a given value in a sorted array.
+
+Find the smallest letter greater than a target in a sorted character array.
+
+Find the minimum number of pages allocation (Book Allocation Problem) using Binary Search on answer.
+
+Implement 2D Matrix Search where rows and columns are sorted.
+
+🔃 20 Sorting Program Questions
+🔹 Basic Sorting
+
+Implement Bubble Sort to sort an array in ascending order.
+
+Implement Selection Sort to sort an array in ascending order.
+
+Implement Insertion Sort to sort an array in ascending order.
+
+Sort an array of 0s, 1s, and 2s without using sorting library (Dutch National Flag).
+
+Implement Counting Sort for a range of integers.
+
+Sort characters of a string in lexicographical order.
+
+Sort an array of positive & negative numbers keeping negatives first (Partition logic).
+
+Sort an array of strings by length.
+
+🔹 Intermediate Sorting
+
+Implement Merge Sort (Recursive).
+
+Implement Quick Sort (Recursive).
+
+Implement Heap Sort using Max Heap.
+
+Implement Shell Sort.
+
+Sort an array using Bucket Sort (for floating-point numbers).
+
+Sort a linked list using Merge Sort.
+
+Find the kth smallest/largest element using Quick Select.
+
+Sort a nearly sorted (k-sorted) array using Min Heap.
+
+Sort an array using Radix Sort for integers.
+
+Implement External Sorting for very large data (simulate with file I/O).
+
+Sort an array using Bitonic Sort (Parallel Sorting algorithm).
+
+Sort elements by frequency (most frequent element first).
